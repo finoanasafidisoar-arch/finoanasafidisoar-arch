@@ -1,6 +1,6 @@
 # 𝐻𝑖, 𝐼'𝑚 𝐹𝑖𝑛𝑜𝑎𝑛𝑎 😊
 
-### 💫 IT Student at MCCI Business School <br><i> Focusing on Web Dev  </i> 🌐 <br>
+💫 IT Student at MCCI Business School <br><i> Focusing on Web Dev </i> 🌐 <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Finoanarakotoniaina)
