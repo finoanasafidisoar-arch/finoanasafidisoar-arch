@@ -1,12 +1,12 @@
-# Hi, I'm Finoana ✨
+# Hi, I'm Finoana
  
 - 🎓 Computer science student at MCCI Business School
-
-- 💻 I love coding and learning new stuff
  
 ## 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finoanasafidisoar@gmail.com)
+[LinkedIn](https://linkedin.com/in/finoanarakotoniaina)
+[Mon Portfolio](https://ton-site.com)
  
 ## 💻 Tech Stack:
 
