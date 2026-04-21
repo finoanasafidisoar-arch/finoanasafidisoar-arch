@@ -23,13 +23,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=finoanassafidisoar-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=finoanassafidisoar-arch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=finoanassafidisoar-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:# 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=finoanassafidisoar-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finoanassafidisoar-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=finoanassafidisoar-arch&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
 
 
 
